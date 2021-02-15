@@ -93,7 +93,7 @@
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "url-loader": "^0.5.7",
-    "vega": "2.5.2",
+    "vega": "5.17.3",
     "vega-lib": "^4.4.0",
     "vizzuality-components": "^2.0.0",
     "webpack": "^4.35.0",
